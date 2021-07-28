@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestTaxTypes" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-28T02:25:57" hostname="DESKTOP-7A31D2T" time="0.022">
+  <properties/>
+  <testcase name="testVATaxType()" classname="TestTaxTypes" time="0.016"/>
+  <testcase name="testProgressiveTaxType()" classname="TestTaxTypes" time="0.003"/>
+  <testcase name="testIncomeTaxType()" classname="TestTaxTypes" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
