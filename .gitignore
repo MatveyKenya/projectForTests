@@ -4,6 +4,7 @@
 
 # IntelliJ
 out/
+build/
 .idea/
 *.iml
 modules.xml
